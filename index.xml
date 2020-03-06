@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lev Zakharov Personal Site</title>
+    <link>https://lzakharov.github.io/</link>
+    <description>Recent content on Lev Zakharov Personal Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Mar 2020 11:25:51 +0300</lastBuildDate>
+    
+	<atom:link href="https://lzakharov.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projects</title>
+      <link>https://lzakharov.github.io/projects/</link>
+      <pubDate>Thu, 05 Mar 2020 11:25:51 +0300</pubDate>
+      
+      <guid>https://lzakharov.github.io/projects/</guid>
+      <description> csv2md   Command line tool for converting CSV files into Markdown tables. plyushkin   Command line application for dumping photos from your VK account. barman   Tiny terminal histogram creator.  HackerRank Interview Preparation Kit Solutions   Solutions to the HackerRank Interview Preparation Kit in Python. </description>
+    </item>
+    
+    <item>
+      <title>Library</title>
+      <link>https://lzakharov.github.io/library/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lzakharov.github.io/library/</guid>
+      <description>Presentations     Scala Implicits, Lev Zakharov (2019)   Reading  Software Engineering     The Little Book of Semaphores, Allen B. Downey    Microservices Patterns, Chris Richardson    Test-Driven Web Development with Python, Harry J.W. Percival    Designing Data-Intensive Applications, Martin Kleppmann    UML 2 and the unified process, Jim Arlow and Ila Neustadt    Computer Science Distilled: Learn the Art of Solving Computational Problems, Wladston Ferreira Filho     Managing the development of large software systems, Dr.</description>
+    </item>
+    
+    <item>
+      <title>Резюме</title>
+      <link>https://lzakharov.github.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lzakharov.github.io/resume/</guid>
+      <description>Захаров Лев  Образование     Казанский Федеральный Университет, Высшая школа информационных технологий и информационных систем, 2014 - 2018, Прикладная информатика (красный диплом).   Навыки     Языки программирования: Golang (основной), Python, Scala.    Базы данных: PostgreSQL, Redis, ElasticSearch, MinIO.    Брокеры сообщений: Kafka, NATS.    Операционные системы: OS X, Linux.    Языки: Русский, English (upper-intermediate).    Прочее: Git, Gitlab, Jira, Docker, Swagger, Stoplight, Postman, gRPC, Prometheus, Clean Architecture, Microservices, Functional Programming.</description>
+    </item>
+    
+  </channel>
+</rss>
