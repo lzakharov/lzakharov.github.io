@@ -6,7 +6,6 @@
     <description>Recent content on Lev Zakharov Personal Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2020 11:25:51 +0300</lastBuildDate>
     
 	<atom:link href="https://lzakharov.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -35,7 +34,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lzakharov.github.io/resume/</guid>
-      <description>Захаров Лев, Golang Developer  Контакты     Email: l.j.zakharov@gmail.com    Telegram: @lzakharov    GitHub: lzakharov   Образование     Казанский Федеральный Университет, Высшая школа информационных технологий и информационных систем, 2014 - 2018, Прикладная информатика (красный диплом).   Навыки     Golang: fasthttp, grpc-gateway, sqlx, pq, sqlboiler, logrus, zap.    Другие ЯП: Python, Scala.    Базы данных: PostgreSQL, MongoDB, Redis, ElasticSearch, MinIO.</description>
+      <description>Захаров Лев, Golang Developer  Контакты     Email: l.j.zakharov@gmail.com    Telegram: @lzakharov    GitHub: lzakharov   Образование     Казанский Федеральный Университет, Высшая школа информационных технологий и информационных систем, 2014 - 2018, Прикладная информатика (красный диплом).   Навыки     Языки программирования: Golang, Python, Scala.    Базы данных: PostgreSQL, MongoDB, Redis, ElasticSearch, MinIO.    Брокеры сообщений: Kafka, NATS.</description>
     </item>
     
   </channel>
