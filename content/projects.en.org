@@ -1,0 +1,18 @@
+---
+title: "Projects"
+date: 2020-03-05T11:25:51+03:00
+---
+
+* [[https://github.com/lzakharov/csv2md][csv2md]]
+Command line tool for converting CSV files into Markdown tables.
+
+* [[https://github.com/lzakharov/plyushkin][plyushkin]]
+Command line application for dumping photos from your VK account.
+
+* [[https://github.com/lzakharov/barman][barman]]
+Tiny terminal histogram creator.
+
+-----
+
+* [[https://github.com/lzakharov/hackerrank-interview-preparation-kit][HackerRank Interview Preparation Kit Solutions]]
+Solutions to the [[https://www.hackerrank.com/interview/interview-preparation-kit][HackerRank Interview Preparation Kit]] in Python.

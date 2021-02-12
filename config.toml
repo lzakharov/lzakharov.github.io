@@ -1,0 +1,94 @@
+baseURL = "https://lzakharov.github.io/"
+languageCode = "ru"
+defaultcontentlanguage = "ru"
+title = "Lev Zakharov Personal Site"
+theme = "hugo-coder"
+
+[params]
+    author = "Lev Zakharov"
+    description = "Lev Zakharov's Personal Site"
+    keywords = "blog,developer,personal"
+    info = "Software Engineer"
+    avatarurl = "images/avatar.jpg"
+
+[[params.social]]
+    name = "Github"
+    icon = "fa fa-github"
+    weight = 1
+    url = "https://github.com/lzakharov"
+
+[[params.social]]
+    name = "StackOverflow"
+    icon = "fa fa-stack-overflow"
+    weight = 2
+    url = "https://stackoverflow.com/users/8773597/lev-zakharov"
+
+[[params.social]]
+    name = "Telegram"
+    icon = "fa fa-telegram"
+    weight = 3
+    url = "https://t.me/lzakharov"
+
+[[params.social]]
+    name = "Gmail"
+    icon = "fa fa-envelope"
+    weight = 4
+    url = "mailto:l.j.zakharov@gmail.com"
+
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fa fa-linkedin"
+    weight = 5
+    url = "https://www.linkedin.com/in/lev-zakharov-39b129151"
+
+[[params.social]]
+    name = "Instagram"
+    icon = "fa fa-instagram"
+    weight = 6
+    url = "https://www.instagram.com/ljzakharov"
+
+[languages]
+    [languages.en]
+        languagename = "English"
+
+        [languages.en.menu]
+            [[languages.en.menu.main]]
+            name = "Projects"
+            weight = 1
+            url = "projects/"
+
+            [[languages.en.menu.main]]
+            name = "Library"
+            weight = 2
+            url = "library/"
+
+    [languages.ru]
+        languagename = "Русский"
+
+        [languages.ru.params]
+            author = "Лев Захаров"
+            description = "Персональный сайт Льва Захарова"
+            keywords = "blog,developer,personal"
+            info = "Software Engineer"
+            avatarurl = "images/avatar.jpg"
+
+        [languages.ru.menu]
+            [[languages.ru.menu.main]]
+            name = "Резюме"
+            weight = 1
+            url = "resume/"
+
+            [[languages.ru.menu.main]]
+            name = "Проекты"
+            weight = 2
+            url = "projects/"
+
+            [[languages.ru.menu.main]]
+            name = "Библиотека"
+            weight = 3
+            url = "library/"
+
+            [[languages.ru.menu.main]]
+            name = "Концерт🔥"
+            weight = 4
+            url = "concert/"

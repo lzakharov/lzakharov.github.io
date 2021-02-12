@@ -1,0 +1,7 @@
+# Hugo
+docs/
+resources/_gen/
+
+# OS X
+.DS_Store
+

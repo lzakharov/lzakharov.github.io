@@ -1,0 +1,48 @@
+---
+title: "Library"
+---
+
+* Presentations
+- [[https://docs.google.com/presentation/d/1ywE0bbw6aeMBj6dEwPQUjGiL1MgJtiXAuV48e2AOV4Y/edit?usp=sharing][Scala Implicits, Lev Zakharov (2019)]]
+* Reading
+** Software Engineering
+- [[https://www.jpattonassociates.com/user-story-mapping/][User Story Mapping: Discover the Whole Story, Build the Right Product, Jeff Patton]]
+- [[https://www.oreilly.com/library/view/kubernetes-up-and/9781491935668/][Kubernetes: Up and Running, Kelsey Hightower, Brendan Burns and Joe Beda]]
+- [[https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition][The Pragmatic Programmer, David Thomas and Andrew Hunt]]
+- [[https://greenteapress.com/wp/semaphores/][The Little Book of Semaphores, Allen B. Downey]]
+- [[https://www.manning.com/books/microservices-patterns?a_aid=microservices-patterns-chris&a_bid=2d6d8a4d][Microservices Patterns, Chris Richardson]]
+- [[https://www.obeythetestinggoat.com/pages/book.html][Test-Driven Web Development with Python, Harry J.W. Percival]]
+- [[http://dataintensive.net][Designing Data-Intensive Applications, Martin Kleppmann]]
+- [[https://www.amazon.com/UML-Unified-Process-Practical-Object-Oriented/dp/0321321278][UML 2 and the unified process, Jim Arlow and Ila Neustadt]]
+- [[https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020][Computer Science Distilled: Learn the Art of Solving Computational Problems,
+  Wladston Ferreira Filho]]
+- [[https://github.com/karlseguin/the-little-mongodb-book][The Little MongoDB Book, Karl Seguin]]
+- [[http://www-scf.usc.edu/~csci201/lectures/Lecture11/royce1970.pdf][Managing the development of large software systems, Dr. Winston and W. Royce]]
+** Programming
+*** Golang
+- [[https://www.golang-book.com/books/intro][An Introduction to Programming in Go, Caleb Doxsey]]
+- [[http://www.golangbootcamp.com/][Go Bootcamp. Everything you need to know to get started with Go, Matt
+  Aimonetti]]
+- [[https://www.gopl.io/][The Go Programming Language, Alan A. A. Donovan, Brian W. Kernighan]]
+- [[https://www.oreilly.com/library/view/go-design-patterns/9781786466204/][Go Design Patterns, Mario Castro Contreras]]
+- [[https://www.oreilly.com/library/view/learning-functional-programming/9781787281394/][Learning Functional Programming in Go, Lex Sheehan]]
+- [[https://blog.gopheracademy.com/advent-2017/property-based-testing/][Property Based Testing, Chewxy]]
+- [[https://commandcenter.blogspot.com/2017/12/error-handling-in-upspin.html][Error handling in Upspin, Rob Pike and Andrew Gerrand]]
+*** Python
+- [[https://greenteapress.com/wp/think-python-2e/][Think Python, Allen B. Downey]]
+- [[http://shop.oreilly.com/product/0636920027072.do][Python Cookbook, Brian Jones, David Beazley]]
+- [[https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413][Introduction to Machine Learning with Python, Andreas C. Müller and Sarah
+  Guido]]
+*** Scala
+- [[https://www.oreilly.com/library/view/scala-for-the/9780132761772/][Scala for the Impatient, Cay S. Horstmann]]
+- [[https://www.manning.com/books/functional-programming-in-scala][Functional Programming in Scala, Paul Chiusano and Runar Bjarnason, foreword
+  by Martin Odersky]]
+- [[https://underscore.io/books/scala-with-cats][Scala with Cats Book, Noel Welsh and Dave Gurnell]]
+*** Haskell
+- [[http://learnyouahaskell.com][Learn You a Haskell for Great Good! A Beginner's Guide, Miran Lipovača]]
+- [[https://haskellbook.com/][Haskell Programming from First Principles, Christoph Allen and Julie Moronuki]]
+*** Java
+- [[https://www.amazon.com/Java-Complete-Reference-Herbert-Schildt/dp/0071606300][Java The Complete Reference, Herbert Schildt]]
+*** C
+- [[https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628][The C Programming Language, Brian Kernighan and Dennis Ritchie]]
+- [[http://www.buildyourownlisp.com][Build Your Own Lisp, Daniel Holden]]
