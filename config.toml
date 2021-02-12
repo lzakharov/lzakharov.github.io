@@ -89,6 +89,6 @@ theme = "hugo-coder"
             url = "library/"
 
             [[languages.ru.menu.main]]
-            name = "Концерт🔥"
+            name = "Концерт"
             weight = 4
             url = "concert/"
