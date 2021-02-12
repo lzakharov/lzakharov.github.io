@@ -5,32 +5,26 @@
     <link>https://lzakharov.github.io/</link>
     <description>Recent content on Lev Zakharov Personal Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://lzakharov.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru</language><atom:link href="https://lzakharov.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Projects</title>
-      <link>https://lzakharov.github.io/projects/</link>
-      <pubDate>Thu, 05 Mar 2020 11:25:51 +0300</pubDate>
-      
-      <guid>https://lzakharov.github.io/projects/</guid>
-      <description> csv2md  Command line tool for converting CSV files into Markdown tables.
-  plyushkin  Command line application for dumping photos from your VK account.
-  barman  Tiny terminal histogram creator.
-   HackerRank Interview Preparation Kit Solutions  Solutions to the HackerRank Interview Preparation Kit in Python.
-  </description>
-    </item>
-    
-    <item>
-      <title>Library</title>
+      <title>Библиотека</title>
       <link>https://lzakharov.github.io/library/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lzakharov.github.io/library/</guid>
-      <description>Presentations    Scala Implicits, Lev Zakharov (2019)
-    Reading  Software Engineering    User Story Mapping: Discover the Whole Story, Build the Right Product, Jeff Patton
-  Kubernetes: Up and Running, Kelsey Hightower, Brendan Burns and Joe Beda
-  The Pragmatic Programmer, David Thomas and Andrew Hunt
-  The Little Book of Semaphores, Allen B. Downey
-  Microservices Patterns, Chris Richardson</description>
+      <description>Презентации     Scala Implicits, Lev Zakharov (2019)  Книги    Программная инженерия     User Story Mapping: Discover the Whole Story, Build the Right Product, Jeff Patton Kubernetes: Up and Running, Kelsey Hightower, Brendan Burns and Joe Beda The Pragmatic Programmer, David Thomas and Andrew Hunt The Little Book of Semaphores, Allen B. Downey Microservices Patterns, Chris Richardson Test-Driven Web Development with Python, Harry J.</description>
+    </item>
+    
+    <item>
+      <title>Проекты</title>
+      <link>https://lzakharov.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lzakharov.github.io/projects/</guid>
+      <description>csv2md    Консольное приложение для конвертации CSV файлов в Markdown таблицы.
+plyushkin    Консольное приложение для выгрузки ваших фото из ВКонтакте.
+barman    Минималистичное приложение для создание гистрограмм в терминале.
+ HackerRank Interview Preparation Kit Solutions    Решения HackerRank Interview Preparation Kit на Python.</description>
     </item>
     
     <item>
@@ -39,13 +33,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lzakharov.github.io/resume/</guid>
-      <description>Захаров Лев, Golang Developer  Контакты    Email: l.j.zakharov@gmail.com
-  Telegram: @lzakharov
-  GitHub: lzakharov
-    Образование    Казанский Федеральный Университет, Высшая школа информационных технологий и информационных систем, 2014 - 2018, Прикладная информатика (красный диплом).
-    Навыки    Языки программирования: Golang, Python, Scala.
-  Базы данных: PostgreSQL, MongoDB, Redis, ElasticSearch, MinIO.
-  Брокеры сообщений: Kafka, NATS.</description>
+      <description>Захаров Лев, Golang Developer    Контакты     Email: l.j.zakharov@gmail.com Telegram: @lzakharov GitHub: lzakharov  Образование     Казанский Федеральный Университет, Высшая школа информационных технологий и информационных систем, 2014 - 2018, Прикладная информатика (красный диплом).  Навыки     Языки программирования: Golang Базы данных: PostgreSQL, MongoDB, Redis, MinIO. Брокеры сообщений: Kafka. Операционные системы: OS X, Linux. Языки: Русский, English (upper-intermediate). Прочее: Git, GitLab, Jira, Docker, Kubernetes, Helm, Swagger, Postman, gRPC, Prometheus, Hashicorp Vault, Clean Architecture, Microservices, Functional Programming.</description>
     </item>
     
     <item>
