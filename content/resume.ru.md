@@ -17,11 +17,11 @@ title: "Резюме"
 ## Навыки
 
 - Языки программирования: Golang
-- Базы данных: PostgreSQL, MongoDB, Redis, MinIO.
+- Базы данных: PostgreSQL, Redis, Hashicorp Vault, MinIO (Amazon S3), MongoDB.
 - Брокеры сообщений: Kafka.
 - Операционные системы: OS X, Linux.
 - Языки: Русский, English (upper-intermediate).
-- Прочее: Git, GitLab, Jira, Docker, Kubernetes, Helm, Swagger, Postman, gRPC, Prometheus, Hashicorp Vault, Clean Architecture, Microservices, Functional Programming.
+- Прочее: Git, GitLab, Jira, Docker, Kubernetes, Helm, Swagger, Postman, gRPC, Prometheus, Clean Architecture, Microservices, Functional Programming.
 
 ### Опыт работы
 
