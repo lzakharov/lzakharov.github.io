@@ -10,6 +10,22 @@ title: "Саша Никаньшин. Акустический концерт"
 - 📍 **Место**: [Концертно-театральное пространство "ИНТЕРЕСНО"](https://www.instagram.com/interesno.art)
 - 🎫 **Билеты**: [INTICKETS.RU](https://interesno.intickets.ru/event/11686242)
 
+## Видео
+
 {{< youtube Naf1ZhfZx-k >}}
 {{< youtube CbM0BqP9rdI >}}
 {{< youtube g1NPl5WUbvM >}}
+
+## Сборники стихов
+
+### Петрикор
+
+![petrichore](/images/petrichore.jpg)
+
+[Читать](/docs/petrichore.pdf)
+
+### Этого никогда не было
+
+![thishasneverhappened](/images/thishasneverhappened.jpg)
+
+[Читать](/docs/thishasneverhappened.pdf)
