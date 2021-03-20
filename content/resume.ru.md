@@ -25,6 +25,7 @@ title: "Резюме"
 
 ### Опыт работы
 
+- [KazanExpress](https://kazanexpress.ru), Senior Golang Developer (03.2021 - по настоящее время)
 - [Нетология](https://netology.ru), Эксперт на курсе по Go (11.2020 - по настоящее время)
 - [Kodix](https://agency.kodix.ru/), Senior Golang Developer (01.2020 - 02.2021)
     + Разработка сервиса платежей (gRPC, PostgreSQL, Hashicorp Vault).
