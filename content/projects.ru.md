@@ -2,6 +2,10 @@
 title: "Проекты"
 ---
 
+# [tracegen](https://github.com/KazanExpress/tracegen)
+
+Утилита для генерации декораторов, добавляющих трассировку OpenTelemetry.
+
 # [csv2md](https://github.com/lzakharov/csv2md)
 
 Консольное приложение для конвертации CSV файлов в Markdown таблицы.

@@ -3,6 +3,9 @@ title: "Projects"
 date: 2020-03-05T11:25:51+03:00
 ---
 
+* [[https://github.com/KazanExpress/tracegen][tracegen]]
+Tool for generating OpenTelemetry tracing decorators.
+
 * [[https://github.com/lzakharov/csv2md][csv2md]]
 Command line tool for converting CSV files into Markdown tables.
 
