@@ -17,16 +17,16 @@ title: "Резюме"
 ## Навыки
 
 - Языки программирования: Golang
-- Базы данных: PostgreSQL, Redis, Hashicorp Vault, MinIO (Amazon S3), MongoDB.
+- Базы данных: PostgreSQL, Elasticsearch, Redis, S3, Hashicorp Vault, MongoDB.
 - Брокеры сообщений: Kafka.
 - Операционные системы: OS X, Linux.
 - Языки: Русский, English (upper-intermediate).
-- Прочее: Git, GitLab, Jira, Docker, Kubernetes, Helm, Swagger, Postman, gRPC, Prometheus, Clean Architecture, Microservices, Functional Programming.
+- Прочее: Git, GitLab, Jira, Docker, Kubernetes, Helm, Terraform, Swagger, Postman, gRPC, GraphQL, Apollo, Prometheus, Grafana, Clean Architecture, Microservices, Functional Programming.
 
 ### Опыт работы
 
-- [KazanExpress](https://kazanexpress.ru), Senior Golang Developer (03.2021 - по настоящее время)
-- [Нетология](https://netology.ru), Эксперт на курсе по Go (11.2020 - по настоящее время)
+- [KazanExpress](https://kazanexpress.ru), Golang Team Lead (03.2021 - по настоящее время)
+- [Нетология](https://netology.ru), Эксперт на курсе по Go (11.2020 - 04.2021)
 - [Kodix](https://agency.kodix.ru/), Senior Golang Developer (01.2020 - 02.2021)
     + Разработка сервиса платежей (gRPC, PostgreSQL, Hashicorp Vault).
         * Интеграция с сервисами Сбербанка, Тинькофф, МКБ.
