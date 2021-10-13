@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lev Zakharov Personal Site</title><link>https://lzakharov.github.io/en/</link><description>Recent content on Lev Zakharov Personal Site</description><generator>Hugo -- gohugo.io</generator><language>ru</language><atom:link href="https://lzakharov.github.io/en/index.xml" rel="self" type="application/rss+xml"/><item><title>Projects</title><link>https://lzakharov.github.io/en/projects/</link><pubDate>Thu, 05 Mar 2020 11:25:51 +0300</pubDate><guid>https://lzakharov.github.io/en/projects/</guid><description> csv2md Command line tool for converting CSV files into Markdown tables.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lev Zakharov Personal Site</title><link>https://lzakharov.github.io/en/</link><description>Recent content on Lev Zakharov Personal Site</description><generator>Hugo -- gohugo.io</generator><language>ru</language><atom:link href="https://lzakharov.github.io/en/index.xml" rel="self" type="application/rss+xml"/><item><title>Projects</title><link>https://lzakharov.github.io/en/projects/</link><pubDate>Thu, 05 Mar 2020 11:25:51 +0300</pubDate><guid>https://lzakharov.github.io/en/projects/</guid><description> tracegen Tool for generating OpenTelemetry tracing decorators.
+csv2md Command line tool for converting CSV files into Markdown tables.
 plyushkin Command line application for dumping photos from your VK account.
 barman Tiny terminal histogram creator.
 HackerRank Interview Preparation Kit Solutions Solutions to the HackerRank Interview Preparation Kit in Python.</description></item><item><title>Library</title><link>https://lzakharov.github.io/en/library/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lzakharov.github.io/en/library/</guid><description>Presentations Scala Implicits, Lev Zakharov (2019)
-Reading Software Engineering User Story Mapping: Discover the Whole Story, Build the Right Product, Jeff Patton
-Kubernetes: Up and Running, Kelsey Hightower, Brendan Burns and Joe Beda
-The Pragmatic Programmer, David Thomas and Andrew Hunt
-The Little Book of Semaphores, Allen B. Downey
-Microservices Patterns, Chris Richardson</description></item></channel></rss>
+Reading Software Engineering Terraform: Up &amp;amp; Running, 2nd edition, Yevgeniy Brikman
+Elasticsearch in Action, Matthew Lee Hinman, Radu Gheorghe, and Roy Russo
+User Story Mapping: Discover the Whole Story, Build the Right Product, Jeff Patton
+Kubernetes: Up and Running, Kelsey Hightower, Brendan Burns and Joe Beda</description></item></channel></rss>
