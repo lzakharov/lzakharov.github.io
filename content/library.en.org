@@ -6,6 +6,8 @@ title: "Library"
 - [[https://docs.google.com/presentation/d/1ywE0bbw6aeMBj6dEwPQUjGiL1MgJtiXAuV48e2AOV4Y/edit?usp=sharing][Scala Implicits, Lev Zakharov (2019)]]
 * Reading
 ** Software Engineering
+- [[https://www.terraformupandrunning.com/][Terraform: Up & Running, 2nd edition, Yevgeniy Brikman]]
+- [[https://www.manning.com/books/elasticsearch-in-action/][Elasticsearch in Action, Matthew Lee Hinman, Radu Gheorghe, and Roy Russo]]
 - [[https://www.jpattonassociates.com/user-story-mapping/][User Story Mapping: Discover the Whole Story, Build the Right Product, Jeff Patton]]
 - [[https://www.oreilly.com/library/view/kubernetes-up-and/9781491935668/][Kubernetes: Up and Running, Kelsey Hightower, Brendan Burns and Joe Beda]]
 - [[https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition][The Pragmatic Programmer, David Thomas and Andrew Hunt]]
