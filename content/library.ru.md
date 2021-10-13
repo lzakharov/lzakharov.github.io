@@ -10,7 +10,9 @@ title: "Библиотека"
 
 ## Программная инженерия
 
-- [User Story Mapping: Discover the Whole Story, Build the Right Product, Jeff Patton]([https://www.jpattonassociates.com/user-story-mapping/)
+- [Terraform: Up & Running, 2nd edition, Yevgeniy Brikman](https://www.terraformupandrunning.com)
+- [Elasticsearch in Action, Matthew Lee Hinman, Radu Gheorghe, and Roy Russo](https://www.manning.com/books/elasticsearch-in-action)
+- [User Story Mapping: Discover the Whole Story, Build the Right Product, Jeff Patton](https://www.jpattonassociates.com/user-story-mapping/)
 - [Kubernetes: Up and Running, Kelsey Hightower, Brendan Burns and Joe Beda](https://www.oreilly.com/library/view/kubernetes-up-and/9781491935668/)
 - [The Pragmatic Programmer, David Thomas and Andrew Hunt](https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition)
 - [The Little Book of Semaphores, Allen B. Downey](https://greenteapress.com/wp/semaphores/)
