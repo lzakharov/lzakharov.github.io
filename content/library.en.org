@@ -21,6 +21,8 @@ title: "Library"
 - [[https://github.com/karlseguin/the-little-mongodb-book][The Little MongoDB Book, Karl Seguin]]
 - [[http://www-scf.usc.edu/~csci201/lectures/Lecture11/royce1970.pdf][Managing the development of large software systems, Dr. Winston and W. Royce]]
 ** Programming
+*** Rust
+- [[https://www.oreilly.com/library/view/command-line-rust/9781098109424/][Command-Line Rust, Ken Youens-Clark]]
 *** Golang
 - [[https://www.golang-book.com/books/intro][An Introduction to Programming in Go, Caleb Doxsey]]
 - [[http://www.golangbootcamp.com/][Go Bootcamp. Everything you need to know to get started with Go, Matt

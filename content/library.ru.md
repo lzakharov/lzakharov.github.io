@@ -26,6 +26,10 @@ title: "Библиотека"
 
 ## Программирование
 
+### Rust
+
+- [Command-Line Rust, Ken Youens-Clark](https://www.oreilly.com/library/view/command-line-rust/9781098109424/)
+
 ### Golang
 
 - [An Introduction to Programming in Go, Caleb Doxsey](https://www.golang-book.com/books/intro)
