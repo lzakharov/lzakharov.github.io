@@ -16,16 +16,59 @@ title: "Резюме"
 
 ## Навыки
 
-- Языки программирования: Golang
-- Базы данных: PostgreSQL, Elasticsearch, Redis, S3, Hashicorp Vault, MongoDB.
+- Языки программирования: Golang, Python
+- Базы данных: PostgreSQL, Elasticsearch, Redis, S3, ClickHouse.
 - Брокеры сообщений: Kafka.
+- CI/CD: GitLab CI, Drone CI
 - Операционные системы: OS X, Linux.
 - Языки: Русский, English (upper-intermediate).
-- Прочее: Git, GitLab, Jira, Docker, Kubernetes, Helm, Terraform, Swagger, Postman, gRPC, GraphQL, Apollo, Prometheus, Grafana, Clean Architecture, Microservices, Functional Programming.
+- Прочее: Git, GitLab, Jira, Docker, Kubernetes, Helm, Terraform (+ Terragrunt), Swagger, Postman, gRPC, GraphQL, Apollo, Prometheus, Grafana, Jaeger, Clean Architecture, Microservices, Functional Programming.
 
 ### Опыт работы
 
 - [KazanExpress](https://kazanexpress.ru), Golang Team Lead (03.2021 - по настоящее время)
+    + Golang
+        * Разработка шаблонного проекта:
+            - структура проекта (на базе [Standard Go Project Layout](https://github.com/golang-standards/project-layout)), чистая архитектура, DDD;
+            - конфигурация golangci-lint;
+            - Makefile для сборки, тестирования, кодогенерации, запуска статических анализаторов...
+            - чтение конфигурации, Graceful Shutdown, DI, логирование, метрики, трейсинг...
+            - шаблон CI/CD;
+            - шаблоны Helm Chart.
+        * Сервис изображений
+            - Переход на новую архитектуру (на базе [imgproxy](https://imgproxy.net)):
+                + снижение latency и стабилизация работы сервиса;
+                + сокращение хранимого на дисках объема данных в несколько раз;
+                + уменьшение требований к ресурсам.
+        * Сервис категорий (GraphQL + DataLoaders, Kafka, Redis)
+    + Search Team
+        * Реализация новой архитектуры поиска:
+            - снижение latency и стабилизация работы сервиса (99.9%);
+            - инкрементальное обновление индекса (на базе CDC);
+            - переход на новый формат карточек продукта;
+            - переход на GraphQL (Apollo Federation).
+        * Работа над поисковыми подсказками:
+            - реализация версии сервиса на Python (starlette, fast-autocomplete);
+            - реализация версии на базе ElasticSearch (Golang, GraphQL).
+        * Механизмы проведения A/B тестов:
+            - прокси для балансировки трафика между несколькими сервисами, реализующие одно API;
+            - внутренняя библиотека для работы с Feature Flags.
+        * Сервис поиска по картинкам:
+            - интеграция с внешним сервисом, предоставляющий поисковый индекс;
+            - препроцессинг датасета для поискового индекса.
+    + DevOps
+        * Участие во внедрении IaC (Terraform, Terragrunt).
+        * Участие в переезде из MCS в Яндекс.Облако.
+        * Переход на использования Helm (практика распространилась на все команды разработки).
+        * Поднятие Jaeger для мультикластерного окружения.
+        * Настройка инфраструктуры проектов (создание пользователей, баз данных, бакетов, топиков и т. д.).
+        * Настройка CI/CD (Drone, Jsonnet).
+        * Описание Grafana дэшбордов (Jsonnet, Grafonnet).
+        * Настройка алертов в Prometheus.
+        * Настройка HPA с помощью [KEDA](https://keda.sh).
+    + Прочее
+        * Работа с командой, проведение собеседований.
+        * Составление базы знаний и технической докуметации.
 - [Нетология](https://netology.ru), Эксперт на курсе по Go (11.2020 - 04.2021)
 - [Kodix](https://agency.kodix.ru/), Senior Golang Developer (01.2020 - 02.2021)
     + Разработка сервиса платежей (gRPC, PostgreSQL, Hashicorp Vault).
