@@ -29,8 +29,7 @@ title: "Резюме"
 #### [KazanExpress](https://kazanexpress.ru), Golang Team Lead (03.2021 - по настоящее время)
 
 <details>
-
-<summary>Подробнее</summary>
+    <summary>Подробнее</summary>
 
 #### Общее
 
