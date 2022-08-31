@@ -17,100 +17,33 @@ title: "Резюме"
 ## Навыки
 
 - Языки программирования: Golang, Python
-- Базы данных: PostgreSQL, Elasticsearch, Redis, S3.
-- Брокеры сообщений: Kafka.
-- CI/CD: GitLab CI, Drone CI
-- Операционные системы: OS X, Linux.
-- Языки: Русский, English (upper-intermediate).
-- Прочее: Git, GitLab, Jira, Docker, Kubernetes, Helm, Terraform (+ Terragrunt), Swagger, Postman, gRPC, GraphQL, Apollo, Prometheus, Grafana, Jaeger, Clean Architecture, Microservices, Functional Programming.
+- Базы данных: PostgreSQL, ElasticSearch, Redis, S3, Clickhouse
+- Брокеры сообщений: Kafka
+- CI/CD: Drone CI, GitLab CI
+- Операционные системы: OS X, Linux
+- Языки: Русский, English (upper-intermediate)
+- Прочее: Git, GitLab, Jira, Docker, Kubernetes, Helm, Terraform (+ Terragrunt),
+  Yandex Cloud, Swagger, Postman, Protobuf, gRPC, GraphQL, Apollo, Kibana, Prometheus, Grafana, 
+  Jaeger, Clean Architecture, Microservices, Functional Programming
 
 ### Опыт работы
 
 #### [KazanExpress](https://kazanexpress.ru), Golang Team Lead (03.2021 - по настоящее время)
 
-<details>
-    <summary>Подробнее</summary>
-
-#### Общее
-
-Работа с командой:
-* ведение ежедневных синков;
-* планирование;
-* грумминг;
-* проведение онбордингов, 1 to 1 и self review;
-* собеседования Go-разработчиков.
-
-Ведение документации и базы знаний.
-
-##### Шаблон проекта, общие библиотеки и утилиты
-
-Разработка шаблонного проекта:
-* структура проекта (на базе [Standard Go Project Layout](https://github.com/golang-standards/project-layout)), чистая архитектура, DDD;
-* конфигурация golangci-lint;
-* Makefile для сборки, тестирования, кодогенерации, запуска статических анализаторов и т. д.
-* чтение конфигурации, Graceful Shutdown, DI, логирование, метрики, трейсинг...
-* шаблоны CI/CD;
-* шаблоны Helm Chart.
-
-Разработка библиотек для работы с базами данных, Kafka, Feature Flags, A/B тестами и др.
-
-Разработка утилиты [tracegen](https://github.com/KazanExpress/tracegen) для генерации декораторов, добавляющих трассировку OpenTelemetry.
-
-##### Сервис категорий
-
-Реализация сервиса для получения информации о категориях (GraphQL, DataLoaders, Redis, Kafka).
-
-##### Сервис изображений
-
-Реализация новой архитектуры на базе [imgproxy](https://imgproxy.net), которая позволила:
-* снизить latency и стабилизировать работу сервиса;
-* сократить хранимый на дисках объем данных в несколько раз;
-* уменьшить требований к ресурсам.
-
-#### Команда поиска
-
-##### Сервис поиска
-
-Реализация новой архитектуры поиска на базе Elasticsearch:
-* переход на инкрементальное обновление индекса (Postgres, Debezium, Kafka);
-* переход на новый формат карточек продукта;
-* улучшения механизмов работы полнотекстового поиска;
-* переход на GraphQL (Apollo Federation);
-* снижение latency и стабилизация работы сервиса (99.9%);
-* работа над внедрением сервиса исправления опечаток на базе JamSpell (Python, Starlette);
-* проведение A/B тестов.
-
-##### Сервис подсказок
-
-Реализация версии сервиса для работы с текстовыми подсказками на Python (Starlette, fast-autocomplete), которая показала значимое улучшение продуктовых метрик.
-
-Реализация новой версии на базе Elasticsearch (Golang, GraphQL, S3):
-* новые типы подсказок (по продуктам, категориям и магазинам);
-* проведение A/B тестов для комбинаций разных типов подсказок.
-
-##### Сервисы рекламных полок
-
-Разработка сервисов рекламной модели (GraphQL, Postgres, Kafka, Elasticsearch, S3, ClickHouse).
-
-##### Сервис поиска по изображениям
-
-Разработка сервиса поиска по изображениям (GraphQL, Postgres, Kafka, S3):
-* интеграция с внешним сервисом, предоставляющий поисковый индекс;
-* препроцессинг датасета изображений для поискового индекса.
-
-#### DevOps
-
-* Участие во внедрении IaC (Terraform, Terragrunt).
-* Участие в переезде из MCS в Яндекс.Облако.
-* Переход на использования Helm (практика распространилась на все команды разработки).
-* Поднятие Jaeger для мультикластерного окружения.
-* Настройка инфраструктуры проектов (создание пользователей, баз данных, бакетов, топиков и т. д.).
-* Настройка CI/CD (Drone, Jsonnet).
-* Создание дэшбордов в Grafana (Jsonnet, Grafonnet) и Яндекс.Мониторинге.
-* Настройка алертов в Prometheus.
-* Настройка HPA с помощью [KEDA](https://keda.sh).
-
-</details>
++ Выстраивание процессов в горизонтали Go разработки
++ Проведение собеседований, работа с командой, ведение базы знаний
++ Проектирование и разработка сервиса поиска (ElasticSearch, Kafka, PostgreSQL, Redis, ClickHouse, GraphQL)
+    * Сервис опечаток (Python, Starlette)
+    * Инструменты для тестирования качества поиска (Python, RobotFramework)
++ Проектирование и разработка сервиса поисковых подсказок (ElasticSearch, PostgreSQL, Redis, S3, GraphQL)
++ Проектирование и ведение разработки сервиса изображений ([imgproxy](https://imgproxy.net), PostgreSQL, REST, S3, G-Core CDN)
++ Проектирование и разработка сервисов по продвижению товаров (ElasticSearch, Kafka, PostgreSQL, Redis, ClickHouse, GraphQL)
++ Участие в подготовке инфраструктуры и запуск сервисов для [uzum.com](https://uzum.com) (маркетплейс в Узбекистане)
++ Разработка сервиса поиска по изображению (PostgreSQL, Kafka, S3, GraphQL)
++ Участие во внедрении IaC (Terraform + Terragrunt), переезде из MCS в Яндекс.Облако, внедрении Helm; 
+  настройка CI/CD (Drone);
+  работа с observability (Prometheus, Grafana, OpenTelemetry + Jaeger, Яндекс.Мониторинг);
+  внедрение интеграционного тестирования backend'а (Allure)
 
 #### [Нетология](https://netology.ru), Эксперт на курсе по Go (11.2020 - 04.2021)
 
@@ -150,7 +83,7 @@ title: "Резюме"
 #### [GDC (ICL SERVICES)](http://icl-services.com/), Инженер-программист (08.2016 - 12.2016)
 + Разработка *front-end* приложения для управления массовыми почтовыми рассылками на JavaScript (React, Redux).
 
-#### [ОШИ «Лицей имени Н. И. Лобачевского» КФУ](https://kpfu.ru/liceum[), Лаборант (09.2014 - 08.2017)
+#### [ОШИ «Лицей имени Н. И. Лобачевского» КФУ](https://kpfu.ru/liceum), Лаборант (09.2014 - 08.2017)
 + Преподавание курсов по программированию для школьников.
 
 ## Сертификаты и курсы
