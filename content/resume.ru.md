@@ -38,7 +38,7 @@ title: "Резюме"
 + Проектирование и разработка сервиса поисковых подсказок (ElasticSearch, PostgreSQL, Redis, S3, GraphQL)
 + Проектирование и ведение разработки сервиса изображений ([imgproxy](https://imgproxy.net), PostgreSQL, REST, S3, G-Core CDN)
 + Проектирование и разработка сервисов по продвижению товаров (ElasticSearch, Kafka, PostgreSQL, Redis, ClickHouse, GraphQL)
-+ Участие в подготовке инфраструктуры и запуск сервисов для [uzum.com](https://uzum.com) (маркетплейс в Узбекистане)
++ Участие в подготовке инфраструктуры и запуск сервисов для [uzum.com](https://uzum.uz) (маркетплейс в Узбекистане)
 + Разработка сервиса поиска по изображению (PostgreSQL, Kafka, S3, GraphQL)
 + Участие во внедрении IaC (Terraform + Terragrunt), переезде из MCS в Яндекс.Облако, внедрении Helm; 
   настройка CI/CD (Drone);
