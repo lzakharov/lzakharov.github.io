@@ -28,7 +28,9 @@ title: "Резюме"
 
 ### Опыт работы
 
-#### [KazanExpress](https://kazanexpress.ru), Golang Team Lead (03.2021 - по настоящее время)
+#### [SberMarket](https://sbermarket.ru), Golang Developer at PaaS Team (10.2022 - по настоящее время)
+
+#### [KazanExpress](https://kazanexpress.ru), Golang Team Lead (03.2021 - 10.2022)
 
 + Выстраивание процессов в горизонтали Go разработки
 + Проведение собеседований, работа с командой, ведение базы знаний
