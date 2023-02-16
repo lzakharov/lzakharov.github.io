@@ -1,0 +1,70 @@
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+.header {
+    background-color: skyblue;
+}
+
+.header a {
+    color: black;
+    text-decoration: underline;
+}
+
+.header a:hover {
+    color: whitesmoke;
+}
+
+.main {
+    max-width: 960px;
+    margin: auto;
+}
+
+.projects {
+    list-style: none;
+}
+
+.project-title {
+    font-size: large;
+    margin-bottom: 0;
+}
+
+.project-description {
+    margin-top: 0;
+    padding-left: 25px;
+}
+
+.toc {
+    list-style: none;
+}
+
+.toc-when {
+    font-size: small;
+    color: gray;
+}
+
+.toc-summary {
+    font-size: small;
+}
+
+.post-header {
+    text-align: center;
+}
+
+.taxonomy-list {
+    list-style: none;
+}
+
+.taxonomy-list a {
+    font-size: x-large;
+}
+
+.term-title {
+    font-style: italic;
+}
+
+footer {
+    text-align: center;
+    font-size: small;
+}

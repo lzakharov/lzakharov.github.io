@@ -1,0 +1,12 @@
+- name: Email
+  link: "mailto:l.j.zakharov@gmail.com"
+  value: "l.j.zakharov@gmail.com"
+- name: Telegram
+  link: "https://t.me/lzakharov"
+  value: "@lzakharov"
+- name: LinkedIn
+  link: "https://www.linkedin.com/in/lev-zakharov-39b129151"
+  value: "Lev Zakharov"
+- name: Instagram
+  link: "https://www.instagram.com/ljzakharov"
+  value: "@ljzakharov"

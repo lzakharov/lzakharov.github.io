@@ -1,0 +1,17 @@
+- name: "tracegen"
+  description: "Tool for generating OpenTelemetry tracing decorators."
+  link: "https://github.com/KazanExpress/tracegen"
+- name: "csv2md"
+  description: "Command line tool for converting CSV files into Markdown tables."
+  link: "https://github.com/lzakharov/csv2md"
+- name: "plyushkin"
+  description: |
+    Command line application for dumping photos from your <a href="https://vk.com">VK</a> account.
+  link: "https://github.com/lzakharov/plyushkin"
+- name: "hdiff"
+  description: "Implementation of the Paul Heckel diff algorithm."
+  link: "https://github.com/lzakharov/hdiff"
+- name: "HackerRank Interview Preparation Kit"
+  description: |
+    Solutions to the HackerRank Interview Preparation Kit.
+  link: "https://github.com/lzakharov/hackerrank-interview-preparation-kit"

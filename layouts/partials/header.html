@@ -1,0 +1,5 @@
+<div class="header">
+    {{ range .Site.Params.menu }}
+    <a href="{{ .url }}">{{ .name }}</a>
+    {{ end }}
+</div>

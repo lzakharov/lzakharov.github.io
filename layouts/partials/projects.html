@@ -1,0 +1,12 @@
+<h2>Projects</h2>
+
+<ul class="projects">
+{{ range .Site.Data.projects }}
+    <li>
+        <p class="project-title"><a href="{{ .link }}">{{ .name }}</a></p>
+        <p class="project-description">{{ .description | safeHTML }}</p>
+    </li>
+{{ end }}
+</ul>
+
+<p>Check <a href="https://github.com/lzakharov">GitHub</a> to see more...</p>

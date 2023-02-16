@@ -1,0 +1,10 @@
+{{ define "main" }}
+  <h1>All {{ .Type }}</h1>
+  <ul class="taxonomy-list">
+    {{ range .Data.Pages.ByTitle }}
+      <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}

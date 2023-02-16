@@ -1,0 +1,8 @@
+<div class="post-header">
+    <h1>{{ .Title }}</h1>
+    <p>Posted on {{ .PublishDate.Format "Monday, January 2, 2006"}}.</p>
+    {{ range .Params.tags }}
+        {{ $href := print (relURL "tags/") (urlize .) }}
+        <a href="{{ $href }}">{{ . }}</a>
+    {{ end }}
+</div>

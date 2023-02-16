@@ -1,0 +1,8 @@
+<ul class="toc">
+{{ range .Pages.ByPublishDate.Reverse }}
+    <li class="toc-item">
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a> <span class="toc-when">{{ .PublishDate.Format "January 2006"}}</span>
+        <p class="toc-summary">{{ .Summary }}</p>
+    </li>
+{{ end }}
+</ul>

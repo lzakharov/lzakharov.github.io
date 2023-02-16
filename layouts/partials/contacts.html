@@ -1,0 +1,9 @@
+<h2>Contacts</h2>
+
+<ul class="contacts">
+{{ range .Site.Data.contacts }}
+    <li>
+        <span>{{ .name }}: </span><a href="{{ .link }}">{{ .value }}</a>
+    </li>
+{{ end }}
+</ul>
