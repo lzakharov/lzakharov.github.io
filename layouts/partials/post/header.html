@@ -3,6 +3,6 @@
     <p>Posted on {{ .PublishDate.Format "Monday, January 2, 2006"}}.</p>
     {{ range .Params.tags }}
         {{ $href := print (relURL "tags/") (urlize .) }}
-        <a href="{{ $href }}">{{ . }}</a>
+        <a class="tag" href="{{ $href }}">#{{ . }}</a>
     {{ end }}
 </div>

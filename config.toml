@@ -20,3 +20,10 @@ url = "/reading"
 
 [taxonomies]
   tag = "tags"
+
+[markup]
+  [markup.highlight]
+    style = 'pygments'
+  [markup.goldmark.renderer]
+    unsafe = true
+    

@@ -1,3 +1,7 @@
+body {
+    font-size: larger;
+}
+
 a {
     color: blue;
     text-decoration: none;
@@ -52,6 +56,12 @@ a {
     text-align: center;
 }
 
+.post-header .tag {
+    padding: 8px;
+    background-color: #f7f7f7;
+    border-radius: 8px;
+}
+
 .taxonomy-list {
     list-style: none;
 }
@@ -62,6 +72,29 @@ a {
 
 .term-title {
     font-style: italic;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+.highlight pre {
+    padding: 8px;
+    background-color: #f7f7f7;
+    border-radius: 8px;
+    margin: 2px;
+}
+
+.post-content table {
+    border-collapse: collapse;
+}
+
+.post-content  table, td, tr, th {
+    border: 1px solid;
+}
+
+.post-content td {
+    padding: 8px 12px;
 }
 
 footer {
