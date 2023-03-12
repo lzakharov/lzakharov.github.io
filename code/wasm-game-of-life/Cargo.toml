@@ -1,0 +1,13 @@
+[package]
+name = "wasm-game-of-life"
+version = "0.1.0"
+authors = ["Lev Zakharov <l.j.zakharov@gmail.com>"]
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+fixedbitset = "0.4.2"
+js-sys = "0.3.61"
+wasm-bindgen = "0.2"
