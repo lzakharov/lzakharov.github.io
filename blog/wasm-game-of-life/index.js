@@ -1,5 +1,5 @@
-import init from "./target/wasm_game_of_life.js";
-import { Universe } from "./target/wasm_game_of_life.js";
+import init from "/wasm/game-of-life/pkg/wasm_game_of_life.js";
+import { Universe } from "/wasm/game-of-life/pkg/wasm_game_of_life.js";
 
 const CELL_SIZE = 5; // px
 const GRID_COLOR = "#CCCCCC";
@@ -7,7 +7,7 @@ const DEAD_COLOR = "#FFFFFF";
 const ALIVE_COLOR = "#000000";
 
 const main = async () => {
-    const wasm = await init("./target/wasm_game_of_life_bg.wasm");
+    const wasm = await init("/wasm/game-of-life/pkg/wasm_game_of_life_bg.wasm");
 
     const universe = Universe.new();
     const width = universe.width();
