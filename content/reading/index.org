@@ -9,6 +9,7 @@ draft: false
 - [[https://docs.google.com/presentation/d/1ywE0bbw6aeMBj6dEwPQUjGiL1MgJtiXAuV48e2AOV4Y/edit?usp=sharing][Scala Implicits, Lev Zakharov (2019)]]
 * Books & Papers
 ** Software Engineering
+- [[https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/][System Design Interview: An Insider’s Guide, Alex Xu]]
 - [[https://www.terraformupandrunning.com/][Terraform: Up & Running, 2nd edition, Yevgeniy Brikman]]
 - [[https://www.manning.com/books/elasticsearch-in-action/][Elasticsearch in Action, Matthew Lee Hinman, Radu Gheorghe, and Roy Russo]]
 - [[https://www.jpattonassociates.com/user-story-mapping/][User Story Mapping: Discover the Whole Story, Build the Right Product, Jeff Patton]]
