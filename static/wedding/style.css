@@ -1,3 +1,23 @@
+@font-face {
+    font-family: Nautilus;
+    src: url("/wedding/fonts/Nautilus/Nautilus.otf") format("opentype");
+}
+
+body {
+    font-family: Nautilus;
+    color: #4f5051;
+}
+
+.bg-image {
+    background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+
+#date {
+    color: goldenrod;
+}
+
 .tick {
     font-size: 1rem;
     white-space: nowrap;
@@ -15,7 +35,7 @@
 }
 
 .tick-char {
-    width: 1.5em;
+    width: 1em;
 }
 
 .tick-text-inline {
@@ -42,7 +62,7 @@ body {
 }
 
 .tick-label {
-    color: rgb(90, 93, 99) !important;
+    font-family: Nautilus;
 }
 
 .tick-flip-panel {
@@ -54,9 +74,13 @@ body {
 }
 
 .tick-flip-panel {
-    background-color: rgb(59, 61, 59) !important;
+    background-color: #4f5051 !important;
 }
 
 .tick-flip {
-    border-radius: 0.12em !important;
+    border-radius: 0.20em !important;
 }
+
+.tick-flip {
+    font-family:clearsans-regular, sans-serif !important; 
+ }
