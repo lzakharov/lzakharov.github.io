@@ -413,10 +413,10 @@
     content: "";
     display: block;
     background: #fff;
-    width: 39%;
+    width: 50%;
     height: 100%;
     border-color: #3e3954;
-    border-width: 3px;
+    border-width: 2px;
     border-style: solid;
     border-bottom-right-radius: 50%;
     border-bottom-left-radius: 50%;
@@ -435,13 +435,13 @@
 }
 .corgi .tongue {
     width: 15%;
-    height: 60%;
+    height: 50%;
     background-color: #f15f55;
     right: 14%;
-    top: 35%;
+    top: 45%;
     border-bottom-right-radius: 50% 50%;
     border-bottom-left-radius: 50% 50%;
-    transform-origin: 50% 0%;
+    transform-origin: 30% 0%;
     animation: tongue-stick 2s none infinite;
 }
 .corgi .snout {
