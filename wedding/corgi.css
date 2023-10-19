@@ -45,10 +45,10 @@
 }
 @keyframes tongue-stick {
     0% {
-        transform: scaleY(0.1) translateY(-20px);
+        transform: scaleY(0.1) translateY(-5px);
    }
     0% {
-        transform: scaleY(0.1) translateY(-20px);
+        transform: scaleY(0.1) translateY(-5px);
    }
     0% {
         transform: scaleY(0.5) translateY(0px);
@@ -72,7 +72,7 @@
         transform: scaleY(0.8) translateY(0px) rotate(15deg);
    }
     0% {
-        transform: scaleY(0.1) translateY(-20px) rotate(0deg);
+        transform: scaleY(0.1) translateY(-5px) rotate(0deg);
    }
 }
 @keyframes ear-shake-right {
