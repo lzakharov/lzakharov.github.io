@@ -27,7 +27,7 @@ Programming
 ## Work Experience
 
 * [SberMarket](https://sbermarket.ru), Golang Developer at PaaS Team (10.2022 - current)
-* [KazanExpress](https://kazanexpress.ru), Golang Team Lead at Search Team (03.2021 - 10.2022)
+* [KazanExpress](https://kazanexpress.ru) (+ [Uzum Market](https://uzum.uz/)), Golang Team Lead at Search Team (03.2021 - 10.2022)
 * [Netology](https://netology.ru), Expert at Golang Course (11.2020 - 04.2021)
 * [Kodix](https://agency.kodix.ru/), Senior Golang Developer (01.2020 - 02.2021)
 * [Sovcombank](https://sovcombank.ru), Senior Software Engineer (10.2019 - 12.2019)
